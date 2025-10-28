@@ -1,0 +1,8 @@
+torch==2.6.0+cu124
+numpy==2.1.2
+opencv-python==4.11.0
+matplotlib==3.10.0
+Pillow==11.1.0
+scikit-learn==1.6.1
+pandas==2.3.2
+tensorboard==2.20.0
