@@ -11,7 +11,10 @@ scikit-learn==1.6.1
 pandas==2.3.2
 tensorboard==2.20.0
 
-
+database
+https://github.com/wangjinweige123/EGA-Net/releases/download/database-v1.0/Chase.zip
+https://github.com/wangjinweige123/EGA-Net/releases/download/database-v1.1/Drive.zip
+https://github.com/wangjinweige123/EGA-Net/releases/download/database-v1.2/Stare.zip
 
 Training and Evaluation
 python eval_chase.py --use_saspp --weight_path "Chase/test/checkpoint/UNet_saspp.pth" 
