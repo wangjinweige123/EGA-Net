@@ -22,11 +22,12 @@ tensorboard==2.20.0
 
 database
 
-https://github.com/wangjinweige123/EGA-Net/releases/download/database-v1.0/Chase.zip
+https://opendatalab.com/OpenDataLab/CHASE_DB1
 
-https://github.com/wangjinweige123/EGA-Net/releases/download/database-v1.1/Drive.zip
+https://opendatalab.com/OpenDataLab/DRIVE
 
-https://github.com/wangjinweige123/EGA-Net/releases/download/database-v1.2/Stare.zip
+https://opendatalab.com/OpenDataLab/STARE
+
 
 Training and Evaluation
 
